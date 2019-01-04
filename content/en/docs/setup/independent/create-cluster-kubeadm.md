@@ -381,6 +381,9 @@ There are multiple, flexible ways to install JuniperContrail/TungstenFabric CNI.
 
 Kindly refer to this quickstart: [TungstenFabric](https://tungstenfabric.github.io/website/)
 {{% /tab %}}
+{{% tab name="DANM" %}}
+This is where we describe how to install DANM. 
+{{% /tab %}}
 {{< /tabs >}}
 
 
